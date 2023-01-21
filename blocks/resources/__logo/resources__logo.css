@@ -1,4 +1,5 @@
 .resources__logo {
-  object-fit: cover;
-  object-position: center;
+ list-style: none;
+ margin: 0;
+ padding: 0;
 }
